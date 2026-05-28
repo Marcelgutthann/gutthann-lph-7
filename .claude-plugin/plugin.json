@@ -1,0 +1,10 @@
+{
+  "name": "lph-7",
+  "description": "Erstellt LPH 7 Vergabemitwirkungsberichte mit Vergabesummen-Auswertung",
+  "version": "1.0.0",
+  "author": {
+    "name": "Marcel Gutthann",
+    "email": "info@gutthann-hiw-architekten.de"
+  },
+  "homepage": "https://github.com/Marcelgutthann/gutthann-lph-7"
+}
